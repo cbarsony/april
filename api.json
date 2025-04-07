@@ -1,0 +1,272 @@
+{
+  "categories": [
+    {
+      "id": "guitars",
+      "name": "guitars"
+    },
+    {
+      "id": "drums",
+      "name": "drums"
+    },
+    {
+      "id": "pianos",
+      "name": "pianos"
+    },
+    {
+      "id": "saxophones",
+      "name": "saxophones"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Les Paul",
+      "categoryId": "guitars"
+    },
+    {
+      "id": "2",
+      "name": "Stratocaster",
+      "categoryId": "guitars"
+    },
+    {
+      "id": "3",
+      "name": "Telecaster",
+      "categoryId": "guitars"
+    },
+    {
+      "id": "4",
+      "name": "SG",
+      "categoryId": "guitars"
+    },
+    {
+      "id": "5",
+      "name": "Explorer",
+      "categoryId": "guitars"
+    },
+    {
+      "id": "6",
+      "name": "Dreadnought",
+      "categoryId": "guitars"
+    },
+    {
+      "id": "7",
+      "name": "Snare Drum",
+      "categoryId": "drums"
+    },
+    {
+      "id": "8",
+      "name": "Bass Drum",
+      "categoryId": "drums"
+    },
+    {
+      "id": "9",
+      "name": "Hi-Hat",
+      "categoryId": "drums"
+    },
+    {
+      "id": "10",
+      "name": "Cymbal",
+      "categoryId": "drums"
+    },
+    {
+      "id": "11",
+      "name": "Tom-Tom",
+      "categoryId": "drums"
+    },
+    {
+      "id": "12",
+      "name": "Grand Piano",
+      "categoryId": "pianos"
+    },
+    {
+      "id": "13",
+      "name": "Upright Piano",
+      "categoryId": "pianos"
+    },
+    {
+      "id": "14",
+      "name": "Digital Piano",
+      "categoryId": "pianos"
+    },
+    {
+      "id": "15",
+      "name": "Keyboard",
+      "categoryId": "pianos"
+    },
+    {
+      "id": "16",
+      "name": "Synthesizer",
+      "categoryId": "pianos"
+    },
+    {
+      "id": "17",
+      "name": "Alto Saxophone",
+      "categoryId": "saxophones"
+    },
+    {
+      "id": "18",
+      "name": "Tenor Saxophone",
+      "categoryId": "saxophones"
+    },
+    {
+      "id": "19",
+      "name": "Baritone Saxophone",
+      "categoryId": "saxophones"
+    },
+    {
+      "id": "20",
+      "name": "Soprano Saxophone",
+      "categoryId": "saxophones"
+    },
+    {
+      "id": "21",
+      "name": "Bass Saxophone",
+      "categoryId": "saxophones"
+    },
+    {
+      "id": "22",
+      "name": "Acoustic Guitar",
+      "categoryId": "guitars"
+    },
+    {
+      "id": "23",
+      "name": "Electric Guitar",
+      "categoryId": "guitars"
+    },
+    {
+      "id": "24",
+      "name": "Classical Guitar",
+      "categoryId": "guitars"
+    },
+    {
+      "id": "25",
+      "name": "12-String Guitar",
+      "categoryId": "guitars"
+    },
+    {
+      "id": "26",
+      "name": "Bass Guitar",
+      "categoryId": "guitars"
+    },
+    {
+      "id": "27",
+      "name": "Marching Snare",
+      "categoryId": "drums"
+    },
+    {
+      "id": "28",
+      "name": "Conga Drum",
+      "categoryId": "drums"
+    },
+    {
+      "id": "29",
+      "name": "Bongo Drum",
+      "categoryId": "drums"
+    },
+    {
+      "id": "30",
+      "name": "Timpani",
+      "categoryId": "drums"
+    },
+    {
+      "id": "31",
+      "name": "Steel Drum",
+      "categoryId": "drums"
+    },
+    {
+      "id": "32",
+      "name": "Baby Grand Piano",
+      "categoryId": "pianos"
+    },
+    {
+      "id": "33",
+      "name": "Concert Grand Piano",
+      "categoryId": "pianos"
+    },
+    {
+      "id": "34",
+      "name": "Stage Piano",
+      "categoryId": "pianos"
+    },
+    {
+      "id": "35",
+      "name": "Electric Keyboard",
+      "categoryId": "pianos"
+    },
+    {
+      "id": "36",
+      "name": "Portable Keyboard",
+      "categoryId": "pianos"
+    },
+    {
+      "id": "37",
+      "name": "Vintage Saxophone",
+      "categoryId": "saxophones"
+    },
+    {
+      "id": "38",
+      "name": "Modern Saxophone",
+      "categoryId": "saxophones"
+    },
+    {
+      "id": "39",
+      "name": "Professional Saxophone",
+      "categoryId": "saxophones"
+    },
+    {
+      "id": "40",
+      "name": "Student Saxophone",
+      "categoryId": "saxophones"
+    },
+    {
+      "id": "41",
+      "name": "Intermediate Saxophone",
+      "categoryId": "saxophones"
+    },
+    {
+      "id": "42",
+      "name": "Jazz Guitar",
+      "categoryId": "guitars"
+    },
+    {
+      "id": "43",
+      "name": "Rock Guitar",
+      "categoryId": "guitars"
+    },
+    {
+      "id": "44",
+      "name": "Folk Guitar",
+      "categoryId": "guitars"
+    },
+    {
+      "id": "45",
+      "name": "Metal Guitar",
+      "categoryId": "guitars"
+    },
+    {
+      "id": "46",
+      "name": "Blues Guitar",
+      "categoryId": "guitars"
+    },
+    {
+      "id": "47",
+      "name": "Marching Bass Drum",
+      "categoryId": "drums"
+    },
+    {
+      "id": "48",
+      "name": "Floor Tom",
+      "categoryId": "drums"
+    },
+    {
+      "id": "49",
+      "name": "Rototom",
+      "categoryId": "drums"
+    },
+    {
+      "id": "50",
+      "name": "Octoban",
+      "categoryId": "drums"
+    }
+  ]
+}
