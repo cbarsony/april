@@ -2,11 +2,61 @@
   "categories": [
     {
       "id": "guitars",
-      "name": "guitars"
+      "name": "guitars",
+      "categories": [
+          {
+            "id": "electric-guitars",
+            "name": "electric guitars",
+            "categories": [
+                {
+                  "id": "solid-body-guitars",
+                  "name": "solid body guitars"
+                },
+                {
+                  "id": "semi-hollow-body-guitars",
+                  "name": "semi hollow body guitars"
+                },
+                {
+                  "id": "hollow-body-guitars",
+                  "name": "hollow body guitars"
+                }
+              ]
+          },
+          {
+            "id": "acoustic-guitars",
+            "name": "acoustic guitars"
+          },
+          {
+            "id": "bass-guitars",
+            "name": "bass guitars"
+          },
+          {
+            "id": "classical-guitars",
+            "name": "classical guitars"
+          }
+        ]
     },
     {
       "id": "drums",
-      "name": "drums"
+      "name": "drums",
+      "categories": [
+          {
+            "id": "acoustic-drums",
+            "name": "acoustic drums"
+          },
+          {
+            "id": "electronic-drums",
+            "name": "electronic drums"
+          },
+          {
+            "id": "percussion-drums",
+            "name": "percussion drums"
+          },
+          {
+            "id": "marching-drums",
+            "name": "marching drums"
+          }
+        ]
     },
     {
       "id": "pianos",
